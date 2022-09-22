@@ -1,5 +1,1 @@
-zebra
-jiraf
-elephant
-dolphin
-cow
+zoo is closed
